@@ -1206,8 +1206,10 @@ a {
 	font-size: 5rem;
 	font-weight: 900;
 }
-
-.footer .media_menu ..category {
+.footer .media_menu .social_media {
+	float: right;
+}
+.footer .media_menu .category {
 	float: right;
 }
 
@@ -1272,7 +1274,7 @@ a {
 		line-height: 2;
 	}
 
-	.footer .back_anchor, .footer .media_menu .social_media{
+	.footer .media_menu .back_anchor, .footer .media_menu .social_media {
 		float: none;
 	}
 
